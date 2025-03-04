@@ -1,0 +1,36 @@
+<?php
+// Text
+$_['text_subject']               = '%s - Objednávka %s';
+$_['text_greeting']              = 'Ďakujeme za váš záujem o produkty %s. Vaša objednávka bola prijatá a bude spracovaná, akonáhle bude potvrdená platba.';
+$_['text_link']                  = 'Pre zobrazenie vašej objednávky kliknite na nasledujúci odkaz:';
+$_['text_order_detail']          = 'Podrobnosti objednávky';
+$_['text_instruction']           = 'Inštrukcie';
+$_['text_order_id']              = 'ID objednávky:';
+$_['text_date_added']            = 'Dátum pridania:';
+$_['text_order_status']          = 'Stav objednávky:';
+$_['text_payment_method']        = 'Spôsob platby:';
+$_['text_shipping_method']       = 'Spôsob dopravy:';
+$_['text_email']                 = 'E-mail:';
+$_['text_telephone']             = 'Telefón:';
+$_['text_ip']                    = 'IP adresa:';
+$_['text_payment_address']       = 'Adresa pre platbu';
+$_['text_shipping_address']      = 'Adresa pre dopravu';
+$_['text_products']              = 'Produkty';
+$_['text_product']               = 'Produkt';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Množstvo';
+$_['text_price']                 = 'Cena';
+$_['text_order_total']           = 'Celková suma objednávky';
+$_['text_total']                 = 'Celkom';
+$_['text_subscription']          = 'Predplatné';
+$_['text_subscription_trial']    = '%s každé %d %s(s) na prvých %d platieb';
+$_['text_subscription_duration'] = '%s každé %d %s(s) počas nasledujúcich %d platieb';
+$_['text_subscription_cancel']   = '%s každé %d %s(s) až do zrušenia';
+$_['text_day']                   = 'deň';
+$_['text_week']                  = 'týždeň';
+$_['text_semi_month']            = 'polmesiac';
+$_['text_month']                 = 'mesiac';
+$_['text_year']                  = 'rok';
+$_['text_download']              = 'Akonáhle bude vaša platba potvrdená, môžete kliknúť na nasledujúci odkaz pre prístup k vašim stiahnuteľným produktom:';
+$_['text_comment']               = 'Komentáre k vašej objednávke sú:';
+$_['text_footer']                = 'Prosím odpovedzte na tento e-mail, ak máte akékoľvek otázky.';

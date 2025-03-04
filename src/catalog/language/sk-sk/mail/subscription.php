@@ -1,0 +1,34 @@
+<?php
+// Text
+$_['text_subject']               = '%s - Predplatné %s';
+$_['text_greeting']              = 'Ďakujeme za váš záujem o produkt %s. Vaša žiadosť o predplatné bola prijatá a bude spracovaná, akonáhle bude potvrdená platba.';
+$_['text_link']                  = 'Pre zobrazenie vašich predplatných kliknite na nasledujúci odkaz:';
+$_['text_promotion']             = 'Úspech: Propagačná funkcia bola úspešne pridaná k týmto predplatným!';
+$_['text_subscription_trial']    = '%s každé %d %s(s) na prvých %d platbách';
+$_['text_subscription_duration'] = '%s každé %d %s(s) počas nasledujúcich %d platbách';
+$_['text_subscription_cancel']   = '%s každé %d %s(s) až do zrušenia';
+$_['text_subscription_detail']   = 'Podrobnosti o predplatnom';
+$_['text_instruction']           = 'Pokyny';
+$_['text_orders_id']             = 'ID objednávky:';
+$_['text_date_added']            = 'Dátum pridania:';
+$_['text_order_status']          = 'Stav objednávky:';
+$_['text_payment_method']        = 'Spôsob platby:';
+$_['text_payment_address']       = 'Adresa pre platbu';
+$_['text_email']                 = 'E-mail:';
+$_['text_telephone']             = 'Telefón:';
+$_['text_ip']                    = 'IP adresa:';
+$_['text_products']              = 'Produkty';
+$_['text_product']               = 'Produkt';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Množstvo';
+$_['text_price']                 = 'Cena';
+$_['text_order_total']           = 'Celková suma objednávky';
+$_['text_total']                 = 'Celkom';
+$_['text_comment']               = 'Komentáre k vašim predplatným sú:';
+$_['text_description']           = 'Popis';
+$_['text_day']                   = 'deň';
+$_['text_week']                  = 'týždeň';
+$_['text_semi_month']            = 'polmesiac';
+$_['text_month']                 = 'mesiac';
+$_['text_year']                  = 'rok';
+$_['text_footer']                = 'Prosím, odpovedzte na tento e-mail, ak máte akékoľvek otázky.';
