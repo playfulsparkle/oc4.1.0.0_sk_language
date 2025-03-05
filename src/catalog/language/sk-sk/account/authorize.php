@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Protect your account';
+$_['heading_title'] = 'Chráňte svoj účet';
 
 // Text
-$_['text_security'] = 'You must answer security question whenever you login from an unknown device or computer.';
-$_['text_code']     = 'An email has been sent to your email account with a security code. Enter the code below to continue.';
-$_['text_locked']   = 'Your account has been locked!';
-$_['text_unlock']   = 'Your account has been locked because of to many incorrect attempts at entering the security code. Click the reset button to receive a reset link via your email account.';
-$_['text_unlocked'] = 'Success: Your account has been unlocked!';
-$_['text_link']     = 'Success: An email with a reset link has been sent your email address!';
-$_['text_resend']   = 'Success: An email has been sent to your email account with a security code!';
+$_['text_security'] = 'Pri prihlasovaní sa z neznámeho zariadenia alebo počítača musíte odpovedať na bezpečnostnú otázku.';
+$_['text_code']     = 'Na váš e-mailový účet bol odoslaný bezpečnostný kód. Zadajte kód nižšie a pokračujte.';
+$_['text_locked']   = 'Váš účet bol zablokovaný!';
+$_['text_unlock']   = 'Váš účet bol zablokovaný kvôli príliš veľkému počtu nesprávnych pokusov o zadanie bezpečnostného kódu. Kliknite na tlačidlo "Obnoviť" a pošleme vám odkaz na obnovenie na váš e-mail.';
+$_['text_unlocked'] = 'Úspech: Váš účet bol odblokovaný!';
+$_['text_link']     = 'Úspech: Odkaz na obnovenie bol odoslaný na vašu e-mailovú adresu!';
+$_['text_resend']   = 'Úspech: Na váš e-mailový účet bol odoslaný bezpečnostný kód!';
 
 // Entry
-$_['entry_code']    = 'Security Code';
+$_['entry_code']    = 'Bezpečnostný kód';
 
 // Error
-$_['error_warning'] = 'You have exceeded the allowed number of security code attempts!';
-$_['error_code']    = 'Security code does not match!';
-$_['error_reset']   = 'Warning: Could not reset your security code!';
+$_['error_warning'] = 'Prekročili ste povolený počet pokusov o zadanie bezpečnostného kódu!';
+$_['error_code']    = 'Bezpečnostný kód sa nezhoduje!';
+$_['error_reset']   = 'Upozornenie: Nepodarilo sa obnoviť váš bezpečnostný kód!';

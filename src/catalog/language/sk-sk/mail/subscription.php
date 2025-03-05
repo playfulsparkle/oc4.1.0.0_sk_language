@@ -4,7 +4,6 @@ $_['text_subject']               = '%s - Predplatné %s';
 $_['text_greeting']              = 'Ďakujeme za váš záujem o produkt %s. Vaša žiadosť o predplatné bola prijatá a bude spracovaná, akonáhle bude potvrdená platba.';
 $_['text_link']                  = 'Pre zobrazenie vašich predplatných kliknite na nasledujúci odkaz:';
 $_['text_promotion']             = 'Úspech: Propagačná funkcia bola úspešne pridaná k týmto predplatným!';
-$_['text_subscription_trial']    = '%s každé %d %s(s) na prvých %d platbách';
 $_['text_subscription_duration'] = '%s každé %d %s(s) počas nasledujúcich %d platbách';
 $_['text_subscription_cancel']   = '%s každé %d %s(s) až do zrušenia';
 $_['text_subscription_detail']   = 'Podrobnosti o predplatnom';

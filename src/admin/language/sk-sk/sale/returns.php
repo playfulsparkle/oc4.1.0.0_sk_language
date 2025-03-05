@@ -14,7 +14,7 @@ $_['text_date_added']      = 'Dátum pridania';
 $_['text_return']          = 'Reklamácia položky';
 $_['text_product']         = 'Vyberte produkt na reklamáciu';
 $_['text_opened']          = 'Otvorená';
-$_['text_unopened']        = 'Zatvorená';
+$_['text_unopened']        = 'Neotvorené';
 $_['text_history']         = 'História';
 $_['text_history_add']     = 'Pridať históriu';
 

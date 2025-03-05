@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified subscriptions!';
+$_['text_success']           = 'Úspech: Úprava predplatného bola úspešná!';
 
 // Error
-$_['error_customer']         = 'Warning: Customer details required!';
-$_['error_payment_address']  = 'Warning: Payment address required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_shipping_address'] = 'Warning: Shipping address required!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_product']          = 'Warning: Products required!';
-$_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_call']             = 'API call not found';
+$_['error_customer']         = 'Upozornenie: Požadované údaje o zákazníkovi!';
+$_['error_payment_address']  = 'Upozornenie: Požadovaná platobná adresa!';
+$_['error_payment_method']   = 'Upozornenie: Požadovaný spôsob platby!';
+$_['error_shipping_address'] = 'Upozornenie: Požadovaná adresa doručenia!';
+$_['error_shipping_method']  = 'Upozornenie: Požadovaný spôsob doručenia!';
+$_['error_product']          = 'Upozornenie: Požadované produkty!';
+$_['error_stock']            = 'Upozornenie: Produkty označené *** nie sú k dispozícii v požadovanom množstve alebo nie sú na sklade!';
+$_['error_minimum']          = 'Upozornenie: Minimálna objednávka pre %s je %s!';
+$_['error_call']             = 'API volanie nebolo nájdené';

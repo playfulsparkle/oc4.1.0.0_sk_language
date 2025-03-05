@@ -63,7 +63,6 @@ $_['button_search']         = 'Hľadať';
 $_['button_submit']         = 'Odoslať';
 $_['button_guest']          = 'Pokladňa (bez registrácie)';
 $_['button_view']           = 'Zobraziť';
-$_['button_voucher']        = 'Pridať poukážku';
 $_['button_upload']         = 'Nahrať súbor';
 $_['button_reward']         = 'Pridať vernostné body';
 $_['button_choose']         = 'Vyberte si';
@@ -87,7 +86,7 @@ $_['error_upload_size']     = 'Upozornenie: Nahrávaný súbor prekračuje maxim
 $_['error_curl']            = 'cURL: Kód chyby (%s): %s';
 $_['error_session']         = 'Upozornenie: Relácia vypršala, prosím, odošlite formulár znova!';
 
-/* When doing translations only include the matching language code */
+// When doing translations only include the matching language code
 // Datepicker
 //$_['datepicker']            = 'af';
 //$_['datepicker']            = 'ar-dz';

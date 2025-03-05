@@ -4,7 +4,6 @@ $_['heading_title']   = 'Obľúbené produkty';
 
 // Text
 $_['text_account']    = 'Účet';
-$_['text_instock']    = 'Na sklade';
 $_['text_wishlist']   = 'Zoznam obľúbených produktov (%s)';
 $_['text_login']      = 'Musíte sa <a href="%s">prihlásiť</a> alebo <a href="%s">vytvoriť účet</a>, aby ste uložili <a href="%s">%s</a> do vášho <a href="%s">zoznamu obľúbených produktov</a>!';
 $_['text_success']    = 'Úspech: Pridali ste <a href="%s">%s</a> do vášho <a href="%s">zoznamu obľúbených produktov</a>!';
@@ -21,3 +20,4 @@ $_['column_action']   = 'Akcia';
 
 // Error
 $_['error_product']   = 'Upozornenie: Produkt sa nenašiel!';
+$_['error_login']     = 'Upozornenie: Musíte sa <a href="%s">prihlásiť</a> alebo <a href="%s">vytvoriť účet</a>, aby ste mohli odstrániť položky zo svojho <a href="%s">zoznamu prianí</a>!';

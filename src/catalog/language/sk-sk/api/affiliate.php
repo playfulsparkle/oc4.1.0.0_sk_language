@@ -5,3 +5,4 @@ $_['text_remove']     = 'Úspech: Vaša provízia z partnerského programu bola 
 
 // Error
 $_['error_affiliate'] = 'Upozornenie: Partnerský program sa nenašiel!';
+$_['error_order']     = 'Upozornenie: Medzisúčet musí byť väčší ako 0, aby bola provízia uplatnená!';

@@ -9,7 +9,6 @@ $_['text_return']       = 'Reklamácie';
 $_['text_sitemap']      = 'Mapa stránok';
 $_['text_gdpr']         = 'GDPR';
 $_['text_manufacturer'] = 'Výrobcovia';
-$_['text_voucher']      = 'Darčekové poukážky';
 $_['text_affiliate']    = 'Partnerský progra';
 $_['text_special']      = 'Akciový tovar';
 $_['text_account']      = 'Môj účet';

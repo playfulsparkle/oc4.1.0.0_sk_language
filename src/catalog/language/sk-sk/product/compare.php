@@ -10,7 +10,6 @@ $_['text_price']        = 'Cena';
 $_['text_model']        = 'Model';
 $_['text_manufacturer'] = 'Výrobca';
 $_['text_availability'] = 'Dostupnosť';
-$_['text_instock']      = 'Na sklade';
 $_['text_rating']       = 'Hodnotenie';
 $_['text_reviews']      = 'Na základe %s recenzií.';
 $_['text_summary']      = 'Popis produktu';

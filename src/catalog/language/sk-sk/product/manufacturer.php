@@ -5,7 +5,6 @@ $_['heading_title']    = 'Nájdite svoju obľúbenú značku';
 // Text
 $_['text_brand']       = 'Značka';
 $_['text_index']       = 'Index značiek:';
-$_['text_error']       = 'Značka nebola nájdená!';
 $_['text_no_results']  = 'Nie sú dostupné žiadne produkty na zobrazenie.';
 $_['text_compare']     = 'Porovnanie produktov (%s)';
 $_['text_sort']        = 'Zoradiť podľa';

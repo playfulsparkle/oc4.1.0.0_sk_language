@@ -20,3 +20,4 @@ $_['error_shipping_address'] = 'Adresa pre dopravu je povinná!';
 $_['error_shipping_method']  = 'Dodací spôsob je povinný!';
 $_['error_payment_method']   = 'Spôsob platby je povinný!';
 $_['error_no_payment']       = 'Žiadne spôsob platby nie sú dostupné. Prosím, <a href="%s">kontaktujte nás</a> pre pomoc!';
+

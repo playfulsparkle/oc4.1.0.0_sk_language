@@ -2,7 +2,6 @@
 // Text
 $_['text_refine']      = 'Upresniť vyhľadávanie';
 $_['text_product']     = 'Produkty';
-$_['text_error']       = 'Kategória nebola nájdená!';
 $_['text_no_results']  = 'V tejto kategórii nie sú žiadne produkty na zobrazenie.';
 $_['text_compare']     = 'Porovnanie výrobkov (%s)';
 $_['text_sort']        = 'Zoradiť podľa';
