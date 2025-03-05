@@ -5,13 +5,14 @@ $_['heading_title']          = 'Nastavenia';
 // Text
 $_['text_step_3']            = 'Prístup do databázy a administračné detaily';
 $_['text_db_connection']     = '1. Zadajte údaje na pripojenie k databáze.';
+$_['text_db_advanced']       = 'Pokročilé nastavenia databázy';
 $_['text_db_administration'] = '2. Zadajte používateľské meno a heslo pre administračnú časť.';
 $_['text_mysqli']            = 'MySQLi';
 $_['text_pdo']               = 'mPDO';
-$_['text_pgsql']             = 'PostgreSQL';
 $_['text_help']              = 'Informácie o nastavení databázy na rôznych platformách:';
 $_['text_cpanel']            = 'Nastavenie DB v CPaneli';
 $_['text_plesk']             = 'Nastavenie DB v Plesku';
+$_['text_db_ssl']            = 'Vstupy pre certifikát by mali byť pridané ako jedna riadok, napríklad: "MIIDrzCCApegAwIBAgIQ....=="';
 
 // Entry
 $_['entry_db_driver']        = 'DB ovládač';
@@ -21,6 +22,10 @@ $_['entry_db_password']      = 'Heslo';
 $_['entry_db_database']      = 'Databáza';
 $_['entry_db_port']          = 'Port';
 $_['entry_db_prefix']        = 'Predpona';
+$_['entry_db_advanced']      = 'Pokročilé';
+$_['entry_db_ssl_key']       = 'SSL Kľúč';
+$_['entry_db_ssl_cert']      = 'SSL Certifikát';
+$_['entry_db_ssl_ca']        = 'SSL CA';
 $_['entry_username']         = 'Meno';
 $_['entry_password']         = 'Heslo';
 $_['entry_email']            = 'E-mail';

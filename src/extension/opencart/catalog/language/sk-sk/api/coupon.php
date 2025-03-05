@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_success']   = 'Success: Your coupon discount has been applied!';
+$_['text_success']   = 'Úspech: Zľava z vášho kupónu bola úspešne použitá!';
 
 // Error
-$_['error_customer'] = 'Warning: Customer details required!';
-$_['error_product']  = 'Warning: Products required!';
-$_['error_coupon']   = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_status']   = 'Warning: Coupons are not enabled on this store!';
-$_['error_confirm']  = 'Warning: Please check the coupon form carefully for errors!';
+$_['error_customer'] = 'Upozornenie: Podrobnosti o zákazníkovi sú povinné!';
+$_['error_product']  = 'Upozornenie: Produkty sú povinné!';
+$_['error_coupon']   = 'Upozornenie: Kupón je neplatný, expirovaný alebo dosiahol limit použitia!';
+$_['error_status']   = 'Upozornenie: Kupóny nie sú povolené v tomto obchode!';
+$_['error_confirm']  = 'Upozornenie: Skontrolujte prosím formulár kupónu na chyby!';

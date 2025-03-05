@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Použite kód kupónu';
 
 // Text
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_success']  = 'Úspech: Zľava z vášho kupónu bola úspešne použitá!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Sem zadajte svoj kupón';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_status']  = 'Warning: Coupons are not enabled on this store!';
+$_['error_coupon']  = 'Upozornenie: Kupón je neplatný, expirovaný alebo dosiahol limit použitia!';
+$_['error_status']  = 'Upozornenie: Kupóny nie sú povolené v tomto obchode!';

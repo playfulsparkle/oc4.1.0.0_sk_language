@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Odhad poštovného a daní';
 
 // Text
-$_['text_shipping_method'] = 'Shipping method options';
-$_['text_destination']     = 'Enter your destination to get a shipping estimate.';
-$_['text_estimate']        = 'Please select the preferred shipping method to use on this order.';
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
+$_['text_shipping_method'] = 'Možnosti spôsobu dopravy';
+$_['text_destination']     = 'Zadajte svoju destináciu na získanie odhadu poštovného.';
+$_['text_estimate']        = 'Vyberte preferovaný spôsob dopravy, ktorý chcete použiť na túto objednávku.';
+$_['text_success']         = 'Úspech: Váš odhad poštovného bol použitý!';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'Krajina';
+$_['entry_zone']           = 'Kraj / Štát';
+$_['entry_postcode']       = 'PSČ';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'PSČ musí mať od 2 do 10 znakov!';
+$_['error_country']        = 'Vyberte prosím krajinu!';
+$_['error_zone']           = 'Vyberte prosím kraj / štát!';
+$_['error_shipping']       = 'Upozornenie: Spôsob dopravy je povinný!';
+$_['error_no_shipping']    = 'Upozornenie: Žiadne možnosti dopravy nie sú dostupné. Prosím <a href="%s">kontaktujte nás</a> pre pomoc!';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Reward Points (Available %s)';
+$_['heading_title'] = 'Použite body za odmenu (Dostupné %s)';
 
 // Text
-$_['text_success']  = 'Success: Your reward points discount has been applied!';
+$_['text_success']  = 'Úspech: Zľava z vašich bodov za odmenu bola úspešne použitá!';
 
 // Entry
-$_['entry_reward']  = 'Points to use (Max %s)';
+$_['entry_reward']  = 'Body na použitie (Max. %s)';
 
 // Error
-$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_status']  = 'Warning: Reward points are not enabled on this store!';
+$_['error_reward']  = 'Upozornenie: Zadajte množstvo bodov za odmenu, ktoré chcete použiť!';
+$_['error_points']  = 'Upozornenie: Nemáte %s bodov za odmenu!';
+$_['error_maximum'] = 'Upozornenie: Maximálny počet bodov, ktoré môžu byť použité, je %s!';
+$_['error_status']  = 'Upozornenie: Body za odmenu nie sú povolené v tomto obchode!';
