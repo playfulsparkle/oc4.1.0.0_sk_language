@@ -44,7 +44,7 @@ $_['column_comment']             = 'Komentár';
 $_['column_date_added']          = 'Dátum pridania';
 
 // Button
-$_['button_cancel']              = 'Cancel Subscription';
+$_['button_cancel']              = 'Zrušiť predplatné';
 
 // Error
 $_['error_subscription']         = 'Predplatné sa nedá nájsť!';

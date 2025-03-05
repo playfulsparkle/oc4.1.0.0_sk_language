@@ -1,4 +1,5 @@
 <?php
+// Heading
 $_['heading_title']         = 'Zákazníci';
 
 // Text
@@ -82,7 +83,7 @@ $_['entry_ip']              = 'IP adresa';
 $_['entry_date_from']       = 'Dátum od';
 $_['entry_date_to']         = 'Dátum do';
 
-// Button
+// Tab
 $_['tab_authorize']         = 'Autorizácia';
 
 // Button

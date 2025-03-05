@@ -4,6 +4,7 @@ $_['heading_title']           = 'Články';
 
 // Text
 $_['text_success']            = 'Úspech: Upravili ste články!';
+$_['text_next']               = 'Úspech: Upravili ste %s na %s z %s hodnotení článkov!';
 $_['text_list']               = 'Zoznam článkov';
 $_['text_add']                = 'Pridať článok';
 $_['text_edit']               = 'Upraviť článok';
