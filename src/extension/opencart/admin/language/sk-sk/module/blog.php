@@ -3,31 +3,31 @@
 $_['heading_title']    = 'Blog';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified blog module!';
-$_['text_next']        = 'Success: You have modified %s blog out of %s!';
-$_['text_edit']        = 'Edit Blog Module';
+$_['text_extension']   = 'Rozšírenia';
+$_['text_success']     = 'Úspech: Úpravy blogového modulu boli úspešne vykonané!';
+$_['text_next']        = 'Úspech: Upravené %s blogy z %s!';
+$_['text_edit']        = 'Upraviť blogový modul';
 
 // Form
-$_['text_desc']        = 'Descending Order';
-$_['text_asc']         = 'Ascending Order';
-$_['text_sort_name']   = 'Name';
-$_['text_sort_date']   = 'Date Added';
+$_['text_desc']        = 'Zostupne';
+$_['text_asc']         = 'Vzostupne';
+$_['text_sort_name']   = 'Názov';
+$_['text_sort_date']   = 'Dátum pridania';
 
 // Column
-$_['column_total']     = 'Total';
+$_['column_total']     = 'Spolu';
 
 // Entry
-$_['entry_name']       = 'Module Name';
+$_['entry_name']       = 'Názov modulu';
 $_['entry_limit']      = 'Limit';
-$_['entry_width']      = 'Image Width';
-$_['entry_height']     = 'Image Height';
-$_['entry_order']      = 'Order';
-$_['entry_sort']   	   = 'Sort';
-$_['entry_status']     = 'Status';
+$_['entry_width']      = 'Šírka obrázka';
+$_['entry_height']     = 'Výška obrázka';
+$_['entry_order']      = 'Poradie';
+$_['entry_sort']   	   = 'Triedenie';
+$_['entry_status']     = 'Stav';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify blog module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+$_['error_permission'] = 'Upozornenie: Nemáte povolenie na úpravy blogového modulu!';
+$_['error_name']       = 'Názov modulu musí obsahovať od 3 do 64 znakov!';
+$_['error_width']      = 'Šírka je povinná!';
+$_['error_height']     = 'Výška je povinná!';

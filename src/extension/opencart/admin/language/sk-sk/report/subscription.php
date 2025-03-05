@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']             = 'Subscriptions Report';
+$_['heading_title']             = 'Prehľad predplatného';
 
 // Text
-$_['text_extension']            = 'Extensions';
-$_['text_edit']                 = 'Edit Subscriptions Report';
-$_['text_success']              = 'Success: You have modified subscriptions report!';
+$_['text_extension']            = 'Rozšírenia';
+$_['text_edit']                 = 'Upraviť prehľad predplatného';
+$_['text_success']              = 'Úspech: Úpravy prehľadu predplatného boli úspešne vykonané!';
 $_['text_filter']               = 'Filter';
-$_['text_year']                 = 'Years';
-$_['text_month']                = 'Months';
-$_['text_week']                 = 'Weeks';
-$_['text_day']                  = 'Days';
-$_['text_all_status']           = 'All Statuses';
+$_['text_year']                 = 'Roky';
+$_['text_month']                = 'Mesiace';
+$_['text_week']                 = 'Týždne';
+$_['text_day']                  = 'Dni';
+$_['text_all_status']           = 'Všetky stavy';
 
 // Column
-$_['column_date_start']         = 'Date Start';
-$_['column_date_end']           = 'Date End';
-$_['column_subscriptions']      = 'No. Subscriptions';
-$_['column_products']           = 'No. Products';
-$_['column_tax']                = 'Tax';
-$_['column_total']              = 'Total';
+$_['column_date_start']         = 'Dátum začiatku';
+$_['column_date_end']           = 'Dátum konca';
+$_['column_subscriptions']      = 'Počet predplatných';
+$_['column_products']           = 'Počet produktov';
+$_['column_tax']                = 'Daň';
+$_['column_total']              = 'Celková suma';
 
 // Entry
-$_['entry_date_start']          = 'Date Start';
-$_['entry_date_end']            = 'Date End';
-$_['entry_group']               = 'Group By';
-$_['entry_subscription_status'] = 'Subscription Status';
-$_['entry_status']              = 'Status';
-$_['entry_sort_order']          = 'Sort Order';
+$_['entry_date_start']          = 'Dátum začiatku';
+$_['entry_date_end']            = 'Dátum konca';
+$_['entry_group']               = 'Zoskupiť podľa';
+$_['entry_subscription_status'] = 'Stav predplatného';
+$_['entry_status']              = 'Stav';
+$_['entry_sort_order']          = 'Poradie zoradenia';
 
 // Error
-$_['error_permission']          = 'Warning: You do not have permission to modify subscriptions report!';
+$_['error_permission']          = 'Upozornenie: Nemáte povolenie na úpravu prehľadu predplatného!';

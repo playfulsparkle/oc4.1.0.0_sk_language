@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'Osobný odber';
 
-// Text 
+// Text
 $_['text_extension']   = 'Rozšírenia';
 $_['text_success']     = 'Úspech: Modul bol úspešne upravený!';
 $_['text_edit']        = 'Upraviť modul Osobný odber';

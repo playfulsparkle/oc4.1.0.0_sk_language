@@ -4,6 +4,7 @@ $_['heading_title']      = 'Detekčný systém IP adresy';
 
 // Text
 $_['text_extension']     = 'Rozšírenia';
+$_['text_fraud']         = 'Anti-Fraud';
 $_['text_success']       = 'Úspech: Detekčný systém bol úspešne upravený!';
 $_['text_edit']          = 'Upraviť detekčný systém';
 $_['text_ip_add']        = 'Pridať IP adresu';

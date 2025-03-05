@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_reward']  = 'Use Reward Points';
+$_['text_reward']  = 'Použiť vernostné body';
 
 // Entry
-$_['entry_reward'] = 'Use Reward Points';
+$_['entry_reward'] = 'Použiť vernostné body';

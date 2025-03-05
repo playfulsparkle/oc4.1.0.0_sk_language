@@ -8,6 +8,7 @@ $_['text_success']     = 'Úspech: Kupóny boli úspešne upravené!';
 $_['text_edit']        = 'Upraviť kupóny';
 
 // Entry
+$_['entry_coupon']     = 'Kupón';
 $_['entry_status']     = 'Stav';
 $_['entry_sort_order'] = 'Radenie';
 

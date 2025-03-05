@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']      = 'Bankový prevod';
 
-// Text 
+// Text
 $_['text_extension']	 = 'Rozšírenia';
 $_['text_success']       = 'Úspech: Platba bankovým prevodom bola úspešne upravená!';
 $_['text_edit']          = 'Upraviť prevod';
