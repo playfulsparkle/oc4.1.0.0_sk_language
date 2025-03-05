@@ -12,9 +12,13 @@ $_['text_password']         = 'Heslo';
 $_['text_other']            = 'Iné';
 $_['text_login']            = 'História prihlásení';
 $_['text_authorize']        = 'História autorizácie';
+$_['text_filter']           = 'Filter';
 
 // Column
 $_['column_username']       = 'Používateľské meno';
+$_['column_name']           = 'Zákazník';
+$_['column_email']          = 'E-mail';
+$_['column_user_group']     = 'Používateľská skupina';
 $_['column_status']         = 'Stav';
 $_['column_ip']             = 'IP adresa';
 $_['column_user_agent']     = 'User Agent';
@@ -31,6 +35,10 @@ $_['entry_lastname']        = 'Priezvisko';
 $_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Obrázok';
 $_['entry_status']          = 'Stav';
+$_['entry_name']            = 'Názov';
+$_['entry_ip']              = 'IP adresa';
+$_['entry_date_from']       = 'Dátum od';
+$_['entry_date_to']         = 'Dátum do';
 
 // Tab
 $_['tab_authorize']         = 'Autorizácia';

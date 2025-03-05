@@ -4,12 +4,11 @@ $_['heading_title']      = 'Záloha a Obnova';
 
 // Text
 $_['text_success']       = 'Úspech: Úspešne ste upravili svoju databázu!';
-
+$_['text_progress']      = 'Priebeh';
 $_['text_backup']        = 'Zálohovanie tabuľky %s záznamov %s na %s záznamov';
 $_['text_restore']       = 'Obnova %s z %s';
 $_['text_option']        = 'Možnosti zálohy';
 $_['text_history']       = 'História záloh';
-$_['text_progress']      = 'Priebeh';
 $_['text_import']        = 'Pri veľkých súboroch záloh je lepšie nahrať SQL súbor cez FTP do adresára <strong>~/storage/backup/</strong>.';
 
 // Column

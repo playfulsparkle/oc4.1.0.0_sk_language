@@ -81,7 +81,6 @@ $_['button_option_add']             = 'Pridať voľbu';
 $_['button_option_value_add']       = 'Pridať hodnotu voľby';
 $_['button_subscription_add']       = 'Pridať predplatné';
 $_['button_discount_add']           = 'Pridať zľavu';
-$_['button_special_add']            = 'Pridať akciovú cenu';
 $_['button_image_add']              = 'Pridať obrázok';
 $_['button_geo_zone_add']           = 'Pridať geo oblasťy';
 $_['button_history_add']            = 'Pridať históriu';
@@ -95,7 +94,6 @@ $_['button_approve']                = 'Schváliť';
 $_['button_deny']                   = 'Odmietnuť';
 $_['button_reset']                  = 'Vynulovať';
 $_['button_generate']               = 'Vygenerovať';
-$_['button_voucher_add']            = 'Pridať poukážku';
 $_['button_view']                   = 'Zobraziť';
 $_['button_reward_add']             = 'Pridať vernostné body';
 $_['button_reward_remove']          = 'Odobrať vernostné body';
@@ -146,15 +144,12 @@ $_['tab_option']                    = 'Možnosti';
 $_['tab_server']                    = 'Server';
 $_['tab_seo']                       = 'SEO';
 $_['tab_store']                     = 'Obchod';
-$_['tab_special']                   = 'Akcia';
-$_['tab_session']                   = 'Relácia';
 $_['tab_local']                     = 'Lokalizácia';
 $_['tab_mail']                      = 'E-mail';
 $_['tab_payment_method']            = 'Spôsoby platby';
 $_['tab_product']                   = 'Produkty';
 $_['tab_reward']                    = 'Vernostné body';
 $_['tab_transaction']               = 'Transakcie';
-$_['tab_voucher']                   = 'Poukážky';
 $_['tab_subscription']              = 'Predplatné';
 $_['tab_report']                    = 'Správy';
 
@@ -175,7 +170,7 @@ $_['error_format_kb']				= 'Upozornenie: Nahrávaný súbor prekračuje maximál
 $_['error_format_mb']				= 'Upozornenie: Nahrávaný súbor prekračuje maximálnu veľkosť: %s megabajtov!';
 $_['error_format_gb']				= 'Upozornenie: Nahrávaný súbor prekračuje maximálnu veľkosť: %s gigabajtov!';
 
-/* When doing translations only include the matching language code */
+// When doing translations only include the matching language code
 
 // CKEditor
 //$_['ckeditor']                    = 'af';

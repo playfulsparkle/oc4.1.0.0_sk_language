@@ -8,14 +8,14 @@ $_['text_list']            = 'Zoznam API';
 $_['text_add']             = 'Pridať API';
 $_['text_edit']            = 'Upraviť API';
 $_['text_ip']              = 'Nižšie môžete vytvoriť zoznam IP adries, ktoré sú povolené na prístup k API. Vaša aktuálna IP adresa je %s';
+$_['text_history']              = 'História';
 
 // Column
 $_['column_username']      = 'Názov API';
 $_['column_status']        = 'Stav';
-$_['column_token']         = 'Token';
 $_['column_ip']            = 'IP adresa';
+$_['column_call']          = 'Call';
 $_['column_date_added']    = 'Dátum pridania';
-$_['column_date_modified'] = 'Dátum úpravy';
 $_['column_action']        = 'Akcia';
 
 // Entry
