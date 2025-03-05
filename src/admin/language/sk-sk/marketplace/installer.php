@@ -7,6 +7,10 @@ $_['text_upload']            = 'Úspech: Rozšírenie bolo nahrané!';
 $_['text_success']           = 'Úspech: Rozšírenia boli upravené!';
 $_['text_progress']          = 'Proces inštalácie';
 $_['text_installed']         = 'Nainštalované rozšírenia';
+$_['text_info']              = 'Informácie o rozšírení';
+$_['text_install']           = 'Inštalovanie súborov %s do %s z %s';
+$_['text_vendor']            = 'Obnoviť súbory dodávateľa';
+$_['text_xml']               = 'Inštalovať OCMOD súbory';
 
 // Column
 $_['column_image']           = 'Obrázky';
@@ -17,6 +21,9 @@ $_['column_action']          = 'Akcia';
 
 // Entry
 $_['entry_progress']         = 'Priebeh';
+$_['entry_name']             = 'Názov rozšírenia';
+$_['entry_description']      = 'Popis';
+$_['entry_code']             = 'Kód';
 
 // Error
 $_['error_permission']       = 'Upozornenie: Nemáte povolenie na úpravu rozšírení!';

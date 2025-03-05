@@ -40,4 +40,3 @@ $_['error_value_exists']      = 'Hodnota je už použitá!';
 $_['error_keyword']           = 'SEO adresa URL musí byť dlhší ako 1 znak a kratší než 64 znakov!';
 $_['error_keyword_exists']    = 'SEO URL adresa musí byť jedinečná!';
 $_['error_keyword_character'] = 'Kľúčové slovo môže používať len znaky a-z, 0-9, - a _!';
-

@@ -15,8 +15,6 @@ $_['column_name']          = 'Názov dane';
 $_['column_rate']          = 'Daňová sadzba';
 $_['column_type']          = 'Typ';
 $_['column_geo_zone']      = 'Geo oblast';
-$_['column_date_added']    = 'Dátum pridania';
-$_['column_date_modified'] = 'Dátum úpravy';
 $_['column_action']        = 'Akcia';
 
 // Entry

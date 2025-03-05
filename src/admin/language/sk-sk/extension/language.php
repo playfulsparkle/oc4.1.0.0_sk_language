@@ -14,3 +14,4 @@ $_['column_action']    = 'Akcia';
 // Error
 $_['error_permission'] = 'Upozornenie: Nemáte oprávnenie upravovať jazyky!';
 $_['error_extension']  = 'Upozornenie: Rozšírenie neexistuje!';
+

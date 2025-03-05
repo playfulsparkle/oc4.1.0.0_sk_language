@@ -27,5 +27,4 @@ $_['error_name']             = 'Názov oblasti musí byť dlhší ako 1 znak a k
 $_['error_default']          = 'Upozornenie: Táto oblasť nemôže byť vymazaná, pretože je nastavená ako predvolená oblasť obchodu!';
 $_['error_store']            = 'Upozornenie: Táto oblasť nemôže byť vymazaná, pretože je teraz priradená k %s obchodu(om)!';
 $_['error_address']          = 'Upozornenie: Táto oblasť nemôže byť vymazaná, pretože je teraz priradená k %s adrese(ám)!';
-$_['error_affiliate']        = 'Upozornenie: Táto oblasť nemôže byť vymazaná, pretože je teraz priradená k %s partnerovi(om)!';
 $_['error_zone_to_geo_zone'] = 'Upozornenie: Táto oblasť nemôže byť vymazaná, pretože je teraz priradená k %s oblastiam!';

@@ -30,4 +30,3 @@ $_['entry_value']      = 'Hodnota';
 // Error
 $_['error_permission'] = 'Upozornenie: Nemáte oprávnenie upravovať editor prekladov!';
 $_['error_key']        = 'Kľúč musí byť dlhší ako 3 znak a kratší než 64 znakov!';
-

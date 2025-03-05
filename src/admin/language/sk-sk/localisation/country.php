@@ -26,6 +26,8 @@ $_['entry_status']            = 'Stav';
 // Error
 $_['error_permission']        = 'Upozornenie: Nemáte oprávnenie upravovať krajiny!';
 $_['error_name']              = 'Názov krajiny musí mať medzi 1 a 128 znakmi!';
+$_['error_iso_code_2']        = 'ISO kód 2 musí mať 2 znaky!';
+$_['error_iso_code_3']        = 'ISO kód 3 musí mať 3 znaky!';
 $_['error_default']           = 'Upozornenie: Túto krajinu nemožno odstrániť, pretože je momentálne nastavená ako predvolená krajina obchodu!';
 $_['error_store']             = 'Upozornenie: Túto krajinu nemožno odstrániť, pretože je momentálne priradená k %s obchodom!';
 $_['error_address']           = 'Upozornenie: Túto krajinu nemožno odstrániť, pretože je momentálne priradená k %s položkám v adresári!';

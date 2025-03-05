@@ -3,21 +3,27 @@
 $_['heading_title']     = 'Editor témy';
 
 // Text
-$_['text_success']      = 'Úspech: Upravili ste témy!';
+$_['text_success']      = 'Úspech: Upravené témy!';
+$_['text_add']          = 'Pridať tému';
 $_['text_edit']         = 'Upraviť tému';
-$_['text_store']        = 'Vyberte obchod';
-$_['text_template']     = 'Vyberte šablónu';
 $_['text_default']      = 'Predvolené';
-$_['text_extension']    = 'Rozšírenie';
-$_['text_history']      = 'História témy';
-$_['text_twig']         = 'Editor tém používa jazyk šablóny Twig. <a href="http://twig.sensiolabs.org/documentation" target="_blank" rel="external noopener noreferrer" class="alert-link">Tu si môžete prečítať Twig syntax</a>.';
+$_['text_extension']    = 'Rozšírenia';
+$_['text_code']         = 'Editor kódu šablóny';
+$_['text_twig']         = 'Editor tém používa šablónovací jazyk Twig. Viac informácií o <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">syntaxi Twig nájdete tu</a>.';
 
 // Column
 $_['column_store']      = 'Obchod';
 $_['column_route']      = 'Cesta';
+$_['column_status']     = 'Stav';
 $_['column_date_added'] = 'Dátum pridania';
 $_['column_action']     = 'Akcia';
 
+// Entry
+$_['entry_store']       = 'Obchod';
+$_['entry_route']       = 'Vybrať šablónu';
+$_['entry_code']        = 'Kód';
+$_['entry_status']      = 'Stav';
+
 // Error
-$_['error_permission'] = 'Upozornenie: nemáte oprávnenie na úpravu editora tém!';
-$_['error_twig']       = 'Upozornenie: Môžete uložiť len súbory .twig!';
+$_['error_permission']  = 'Upozornenie: Nemáte oprávnenie upravovať editor tém!';
+$_['error_file']        = 'Upozornenie: Súbor šablóny neexistuje!';

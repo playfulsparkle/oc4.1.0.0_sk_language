@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Modifications';
+$_['heading_title']     = 'Úpravy';
 
 // Text
-$_['text_success']      = 'Success: You have modified modifications!';
-$_['text_refresh']      = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
-$_['text_list']         = 'Modification List';
-$_['text_info']         = 'Modification Information';
+$_['text_success']      = 'Úspech: Úpravy boli upravené!';
+$_['text_refresh']      = 'Pri každom zapnutí / vypnutí alebo odstránení úpravy musíte kliknúť na tlačidlo obnoviť, aby ste obnovili vyrovnávaciu pamäť úprav!';
+$_['text_list']         = 'Zoznam úprav';
+$_['text_info']         = 'Informácie o úprave';
 
 // Column
-$_['column_name']       = 'Modification Name';
-$_['column_author']     = 'Author';
-$_['column_version']    = 'Version';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Názov úpravy';
+$_['column_author']     = 'Autor';
+$_['column_version']    = 'Verzia';
+$_['column_status']     = 'Stav';
+$_['column_date_added'] = 'Dátum pridania';
+$_['column_action']     = 'Akcia';
 
 // Entry
-$_['entry_name']        = 'Modification Name';
-$_['entry_description'] = 'Description';
-$_['entry_code']        = 'Code';
+$_['entry_name']        = 'Názov úpravy';
+$_['entry_description'] = 'Popis';
+$_['entry_code']        = 'Kód';
 $_['entry_xml']         = 'XML';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify modifications!';
+$_['error_permission']  = 'Upozornenie: Nemáte oprávnenie upravovať úpravy!';
