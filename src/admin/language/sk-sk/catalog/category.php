@@ -26,8 +26,6 @@ $_['entry_keyword']           = 'SEO URL';
 $_['entry_parent']            = 'Nadradená kategória';
 $_['entry_filter']            = 'Filtre';
 $_['entry_image']             = 'Obrázky';
-$_['entry_top']               = 'Zobrazenie v menu';
-$_['entry_column']            = 'Počet stĺpcov';
 $_['entry_sort_order']        = 'Radenie';
 $_['entry_status']            = 'Stav';
 $_['entry_layout']            = 'Šablóna';
@@ -35,8 +33,6 @@ $_['entry_layout']            = 'Šablóna';
 // Help
 $_['help_parent']             = '(automatické dokončovanie)';
 $_['help_filter']             = '(automatické dokončovanie)';
-$_['help_top']                = 'Zobrazenie v hornom menu. Funguje len pre nadradené kategórie.';
-$_['help_column']             = 'Počet stĺpcov použitých pre spodné 3 kategórie. Funguje len pre nadradené kategórie.';
 
 // Error
 $_['error_warning']           = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';

@@ -23,13 +23,9 @@ $_['entry_meta_keyword']      = 'Kľúčové slová (Keywords meta tag)';
 $_['entry_meta_description']  = 'Popis (Description meta tag)';
 $_['entry_store']             = 'Obchod';
 $_['entry_keyword']           = 'Kľúčové slová';
-$_['entry_bottom']            = 'Zobrazenie v pätičke';
 $_['entry_status']            = 'Stav';
 $_['entry_sort_order']        = 'Radenie';
 $_['entry_layout']            = 'Šablóna';
-
-// Help
-$_['help_bottom']             = 'Zobrazenie v spodnej pätičke.';
 
 // Error
 $_['error_warning']           = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';

@@ -7,22 +7,20 @@ $_['text_success']      = 'Úspech: Filtre boli úspešne upravené!';
 $_['text_list']         = 'Zoznam filtrov';
 $_['text_add']          = 'Pridať filter';
 $_['text_edit']         = 'Upraviť filter';
-$_['text_group']        = 'Skupina filtrov';
-$_['text_value']        = 'Hodnoty filtra';
 
 // Column
-$_['column_group']      = 'Skupina filtrov';
-$_['column_sort_order'] = 'Radenie';
-$_['column_action']     = 'Akcia';
+$_['column_name']         = 'Názov filtra';
+$_['column_filter_group'] = 'Skupina filtrov';
+$_['column_sort_order']   = 'Radenie';
+$_['column_action']       = 'Akcia';
 
 // Entry
-$_['entry_group']       = 'Názov skupiny filtra';
-$_['entry_name']        = 'Názov filtra';
-$_['entry_sort_order']  = 'Radenie';
+$_['entry_name']         = 'Názov filtra';
+$_['entry_filter_group'] = 'Názov skupiny filtra';
+$_['entry_sort_order']   = 'Radenie';
 
 // Error
 $_['error_warning']     = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';
 $_['error_permission']  = 'Upozornenie: Nemáte oprávnenie pre správu filtrov!';
-$_['error_group']       = 'Názov skupiny filtra musí byť dlhší ako 1 znak a kratší než 64 znakov!';
 $_['error_name']        = 'Názov filtra musí byť dlhší ako 1 znak a kratší než 64 znakov!';
-$_['error_values']      = 'Upozornenie: Vyžadujú sa hodnoty filtra!';
+$_['error_filter_group'] = 'Je potrebné zadať skupinu filtrov!';

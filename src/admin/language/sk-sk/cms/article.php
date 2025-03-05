@@ -13,6 +13,7 @@ $_['text_keyword']            = 'Nepoužívajte medzery, namiesto toho nahraďte
 // Column
 $_['column_name']             = 'Názov článku';
 $_['column_author']           = 'Autor';
+$_['column_rating']           = 'Hodnotenie';
 $_['column_date_added']       = 'Dátum pridania';
 $_['column_action']           = 'Akcia';
 
@@ -31,6 +32,9 @@ $_['entry_sort_order']        = 'Radenie';
 $_['entry_status']            = 'Stav';
 $_['entry_keyword']           = 'Kľúčové slová';
 $_['entry_layout']            = 'Šablóna';
+
+// Button
+$_['button_rating']           = 'Synchronizácia hodnotenie produktov';
 
 // Error
 $_['error_warning']           = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';
