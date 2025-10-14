@@ -1,20 +1,20 @@
-Slovenský jazyk pre OpenCart 4.1
+Slovenský jazyk pre OpenCart 4.1.0.0
 
-Kompletný balík slovenského jazyka pre verziu OpenCart 4.1.x! Tento balík obsahuje všetky potrebné jazykové súbory pre administrátorské rozhranie, frontend, rozšírenia a proces inštalácie. Preklad je dostupný pre verzie OpenCart 4.1.x+.
+Kompletný balík slovenského jazyka pre verziu OpenCart 4.1.0.0! Tento balík obsahuje všetky potrebné jazykové súbory pre administrátorské rozhranie, frontend, rozšírenia a proces inštalácie. Preklad je dostupný pre verzie OpenCart 4.1.0.0.
 
 Demo frontend - https://opencart4.playfulsparkle.com/
 Demo backend - https://opencart4.playfulsparkle.com/admin/
 
 Hlavné vlastnosti
 
-- Kompletný balík slovenského jazyka pre OpenCart 4.1.x: backend, frontend, rozšírenia a inštalácia.
-- Kompatibilný s verziami OpenCart 4.1.x+.
+- Kompletný balík slovenského jazyka pre OpenCart 4.1.0.0: backend, frontend, rozšírenia a inštalácia.
+- Kompatibilný s verziami OpenCart 4.1.0.0.
 - Preklad je dôkladný a podrobný; venovali sme veľkú pozornosť tomu, aby terminológia bola konzistentná na každej stránke, napríklad používanie "obchod" namiesto "eshop" alebo "webshop".
 
 Inštalácia pomocou inštalátora rozšírení
 
 1. Stiahnite si balík "Slovak language" z OpenCart Marketplace.
-2. Prihláste sa do administračného rozhrania OpenCart 4.1.x.
+2. Prihláste sa do administračného rozhrania OpenCart 4.1.0.0.
 3. Prejdite na stránku "Extensions" -> "Installer".
 4. Kliknite na tlačidlo "Upload" a vyberte súbor "ps_sk_language.ocmod.zip" na nahratie.
    Poznámka: Uistite sa, že názov súboru je presne "ps_sk_language.ocmod.zip", inak bude inštalácia neúspešná!
@@ -31,9 +31,9 @@ Manuálna inštalácia
 
 1. Stiahnite si "ps_sk_language.zip" balík "Slovak language" z OpenCart Marketplace.
 2. Extrahujte súbory jazykového balíka do priečinka.
-3. Použite svoj obľúbený FTP klient a prejdite do inštalačného adresára OpenCart 4.1.x.
-4. Nahrajte nasledujúce priečinky: "admin", "catalog", "extension" (a "install", ak práve inštalujete OpenCart 4.1.x).
-5. Prihláste sa do administračného rozhrania OpenCart 4.1.x.
+3. Použite svoj obľúbený FTP klient a prejdite do inštalačného adresára OpenCart 4.1.0.0.
+4. Nahrajte nasledujúce priečinky: "admin", "catalog", "extension" (a "install", ak práve inštalujete OpenCart 4.1.0.0).
+5. Prihláste sa do administračného rozhrania OpenCart 4.1.0.0.
 6. Prejdite na stránku "System" -> "Localization" -> "Languages".
 7. Kliknite na tlačidlo "Add New".
 8. Do poľa "Language Name" zadajte "Slovenčina"; do poľa "Code" zadajte "sk-sk"; do poľa "Locale" zadajte "sk_SK.UTF-8,sk_SK,slovak"; nakoniec povolte jazyk.
@@ -41,4 +41,4 @@ Manuálna inštalácia
 
 Podpora a Aktualizácie
 
-Po nákupe získate bezplatné aktualizácie pre verziu OpenCart 4.1.x. Ak budú v budúcnosti vydané aktualizácie pre sériu 4.x, budú dostupné bezplatne. Ak narazíte na akékoľvek problémy alebo potrebujete pomoc, môžete požiadať o podporu prostredníctvom e-mailu na support@playfulsparkle.com.
+Po nákupe získate bezplatné aktualizácie pre verziu OpenCart 4.1.0.0. Ak budú v budúcnosti vydané aktualizácie pre sériu 4.x, budú dostupné bezplatne. Ak narazíte na akékoľvek problémy alebo potrebujete pomoc, môžete požiadať o podporu prostredníctvom e-mailu na support@playfulsparkle.com.

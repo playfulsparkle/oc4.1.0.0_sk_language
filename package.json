@@ -1,7 +1,7 @@
 {
-  "name": "oc4_1_sk_language",
+  "name": "oc4_1_0_0_sk_language",
   "version": "1.0.2",
-  "description": "Slovak (formal) language for OpenCart 4.1",
+  "description": "Slovak (formal) language for OpenCart 4.1.0.0",
   "main": "index.js",
   "scripts": {
     "compress auto": "node compress_auto.js",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/playfulsparkle/oc4_1_sk_language.git"
+    "url": "git+https://github.com/playfulsparkle/oc4_1_0_0_sk_language.git"
   }
 }
