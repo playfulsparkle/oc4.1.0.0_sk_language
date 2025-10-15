@@ -14,4 +14,4 @@ $_['column_action']    = 'Akcia';
 // Error
 $_['error_permission'] = 'Upozornenie: Nemáte oprávnenie upravovať jazyky!';
 $_['error_extension']  = 'Upozornenie: Rozšírenie neexistuje!';
-
+$_['error_default']    = 'Upozornenie: Toto rozšírenie nemožno odinštalovať, pretože je momentálne nastavené ako jazyk administrácie!';

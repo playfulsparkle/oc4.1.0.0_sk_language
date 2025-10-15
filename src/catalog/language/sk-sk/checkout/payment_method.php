@@ -14,6 +14,7 @@ $_['text_comment']           = 'Úspech: Komentár bol pridaný!';
 $_['entry_payment_method']   = 'Vyberte spôsob platby...';
 
 // Error
+$_['error_order']            = 'Objednávka nebola nájdená! Obnovte stránku.';
 $_['error_customer']         = 'Zákazník je povinný!';
 $_['error_payment_address']  = 'Adresa pre platbu je povinná!';
 $_['error_shipping_address'] = 'Adresa pre dopravu je povinná!';

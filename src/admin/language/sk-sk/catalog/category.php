@@ -7,6 +7,7 @@ $_['text_success']            = 'Úspech: Kategórie boli úspešne upravené!';
 $_['text_list']               = 'Zoznam kategórií';
 $_['text_add']                = 'Pridať kategóriu';
 $_['text_edit']               = 'Upraviť kategóriu';
+$_['text_filter']             = 'Filter';
 $_['text_default']            = 'Predvolené';
 $_['text_keyword']            = 'Nepoužívajte medzery, namiesto toho nahraďte medzery symbolom - a uistite sa, že adresa URL SEO je globálne jedinečná.';
 

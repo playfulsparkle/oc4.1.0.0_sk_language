@@ -18,6 +18,6 @@ $_['error_folder']     = 'Upozornenie: Názov adresára musí byť dlhší ako 3
 $_['error_exists']     = 'Upozornenie: Súbor alebo adresár s rovnakým názvom už existuje!';
 $_['error_directory']  = 'Upozornenie: Adresár neexistuje!';
 $_['error_filesize']   = 'Upozornenie: Nesprávna veľkosť súboru!';
-$_['error_filetype']   = 'Upozornenie: Nesprávny typ súboru!';
+$_['error_file_type']   = 'Upozornenie: Nesprávny typ súboru!';
 $_['error_upload']     = 'Upozornenie: Súbor sa nedá nahrať z neznámeho dôvodu!';
 $_['error_delete']     = 'Upozornenie: Nemožno zmazať tento adresár!';
