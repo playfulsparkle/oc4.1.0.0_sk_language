@@ -97,8 +97,8 @@ $_['entry_height']               = 'Výška';
 $_['entry_option']               = 'Možnosť';
 $_['entry_option_value']         = 'Hodnota možnosti';
 $_['entry_customer_group']       = 'Zákaznícka skupina';
-$_['entry_special']              = 'Special';
-$_['entry_type']                 = 'Type';
+$_['entry_special']              = 'Akciový produkt';
+$_['entry_type']                 = 'Typ';
 $_['entry_date_start']           = 'Dátum začiatku';
 $_['entry_date_end']             = 'Dátum ukončenia';
 $_['entry_priority']             = 'Priorita';
@@ -115,7 +115,7 @@ $_['entry_download']             = 'Súbory na stiahnutie';
 $_['entry_related']              = 'Súvisiace produkty';
 $_['entry_tag']                  = 'Štítky produktu';
 $_['entry_reward']               = 'Vernostné body';
-$_['entry_layout']               = 'Šablóna';
+$_['entry_layout']               = 'Prepísanie rozloženia';
 $_['entry_subscription']         = 'Profil predplatného';
 
 // Help
@@ -134,7 +134,7 @@ $_['help_filter']                = '(automatické dokončovanie)';
 $_['help_download']              = '(automatické dokončovanie)';
 $_['help_related']               = '(automatické dokončovanie)';
 $_['help_option']                = '(automatické dokončovanie)';
-$_['help_points']                = 'Počet bodov potrebných k nákupu položky. Pokiaľ nechcete aby sa dal tovar kúpiť za body, zadajte 0';
+$_['help_points']                = 'Počet bodov potrebných k nákupu položky. Pokiaľ nechcete aby sa dal produkt kúpiť za body, zadajte 0';
 
 // Error
 $_['error_warning']              = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';

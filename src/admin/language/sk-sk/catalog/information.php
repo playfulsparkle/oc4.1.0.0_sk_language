@@ -25,7 +25,7 @@ $_['entry_store']             = 'Obchod';
 $_['entry_keyword']           = 'Kľúčové slová';
 $_['entry_status']            = 'Stav';
 $_['entry_sort_order']        = 'Radenie';
-$_['entry_layout']            = 'Šablóna';
+$_['entry_layout']            = 'Prepísanie rozloženia';
 
 // Error
 $_['error_warning']           = 'Upozornenie: Pozorne skontrolujte, či sa vo formulári nenachádzajú chyby!';

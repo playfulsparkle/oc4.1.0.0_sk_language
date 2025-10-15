@@ -28,7 +28,7 @@ $_['entry_filter']            = 'Filtre';
 $_['entry_image']             = 'Obrázky';
 $_['entry_sort_order']        = 'Radenie';
 $_['entry_status']            = 'Stav';
-$_['entry_layout']            = 'Šablóna';
+$_['entry_layout']            = 'Prepísanie rozloženia';
 
 // Help
 $_['help_parent']             = '(automatické dokončovanie)';

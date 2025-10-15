@@ -32,7 +32,7 @@ $_['entry_store']             = 'Obchod';
 $_['entry_sort_order']        = 'Radenie';
 $_['entry_status']            = 'Stav';
 $_['entry_keyword']           = 'Kľúčové slová';
-$_['entry_layout']            = 'Šablóna';
+$_['entry_layout']            = 'Prepísanie rozloženia';
 
 // Button
 $_['button_rating']           = 'Synchronizácia hodnotenie produktov';

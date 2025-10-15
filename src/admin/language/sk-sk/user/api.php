@@ -14,18 +14,18 @@ $_['text_history']              = 'História';
 $_['column_username']      = 'Názov API';
 $_['column_status']        = 'Stav';
 $_['column_ip']            = 'IP adresa';
-$_['column_call']          = 'Call';
+$_['column_call']          = 'Volanie';
 $_['column_date_added']    = 'Dátum pridania';
 $_['column_action']        = 'Akcia';
 
 // Entry
 $_['entry_username']       = 'Názov API';
-$_['entry_key']            = 'API Key';
+$_['entry_key']            = 'API kľúč';
 $_['entry_status']         = 'Stav';
 $_['entry_ip']             = 'IP adresa';
 
 // Error
 $_['error_permission']     = 'Upozornenie: Nemáte oprávnenie na úpravu API!';
 $_['error_username']       = 'Názov API musí byť dlhšie ako 3 znaky a kratšie než 20 znakov!';
-$_['error_key']            = 'API Key musí byť dlhšie ako 64 znaky a kratšie než 256 znakov!';
+$_['error_key']            = 'API kľúč musí mať dĺžku medzi 64 a 256 znakmi!';
 $_['error_ip']             = 'Musíte mať pridanú aspoň jednu IP adresu do povoleného zoznamu!';

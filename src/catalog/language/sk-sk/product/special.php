@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Akciový tovar';
+$_['heading_title']    = 'Akciový produkt';
 
 // Text
 $_['text_no_results']  = 'Nie sú žiadne produkty s akciovými cenami na zobrazenie.';

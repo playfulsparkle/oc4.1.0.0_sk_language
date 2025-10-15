@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Mapa stránok';
 
 // Text
-$_['text_special']     = 'Akciový tovar';
+$_['text_special']     = 'Akciový produkt';
 $_['text_account']     = 'Môj účet';
 $_['text_edit']        = 'Informácie o účte';
 $_['text_password']    = 'Heslo';

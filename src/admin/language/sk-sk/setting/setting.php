@@ -45,13 +45,13 @@ $_['text_strict']                         = 'Prísny';
 $_['text_region']                         = 'Región';
 $_['text_language']                       = 'Jazyk';
 $_['text_currency']                       = 'Mena';
-$_['text_measurement']                    = 'Merač';
+$_['text_measurement']                    = 'Merné jednotky';
 
 // Entry
 $_['entry_meta_title']                    = 'Nadpis (Title meta tag)';
 $_['entry_meta_description']              = 'Popis (Description meta tag)';
 $_['entry_meta_keyword']                  = 'Kľúčové slová (Keywords meta tag)';
-$_['entry_layout']                        = 'Šablóna';
+$_['entry_layout']                        = 'Prepísanie rozloženia';
 $_['entry_theme']                         = 'Téma';
 $_['entry_name']                          = 'Názov obchodu';
 $_['entry_owner']                         = 'Majiteľ obchodu';
@@ -126,7 +126,7 @@ $_['entry_subscription_failed_status']    = 'Stav neúspešného predplatného';
 $_['entry_subscription_denied_status']    = 'Stav zamietnutého predplatného';
 $_['entry_api']                           = 'API používateľ';
 $_['entry_stock_display']                 = 'Zobrazovať stav skladu';
-$_['entry_stock_warning']                 = 'Zobraziť upozornenie o vypredaní tovaru';
+$_['entry_stock_warning']                 = 'Zobraziť upozornenie o vypredaní produktu';
 $_['entry_stock_checkout']                = 'Kontrola skladu';
 $_['entry_stock_status']                  = 'Stav skladu';
 $_['entry_affiliate_status']              = 'Stav partnerského programu';
