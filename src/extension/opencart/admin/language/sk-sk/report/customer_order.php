@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Súhrnná správa objednávok';
 
 // Text
-$_['text_extension']        = 'Extensions';
+$_['text_extension']        = 'Rozšírenia';
 $_['text_edit']             = 'Upraviť súhrnnú správu objednávok';
 $_['text_success']          = 'Úspech: Súhrnná správa objednávok bola úspešne zmenená!';
 $_['text_filter']           = 'Filter';
