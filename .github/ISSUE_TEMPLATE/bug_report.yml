@@ -65,9 +65,6 @@ body:
       label: OpenCart Version
       description: Which version of OpenCart are you using?
       options:
-        - 4.1.0.3
-        - 4.1.0.2
-        - 4.1.0.1
         - 4.1.0.0
     validations:
       required: true
