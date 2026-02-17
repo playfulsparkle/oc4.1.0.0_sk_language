@@ -26,7 +26,9 @@ class Slovak extends \Opencart\System\Engine\Controller
 			'href' => $this->url->link('extension/ps_sk_language/language/slovak', 'user_token=' . $this->session->data['user_token'])
 		];
 
-		$data['save'] = $this->url->link('extension/ps_sk_language/language/slovak.save', 'user_token=' . $this->session->data['user_token']);
+        $separator = version_compare(VERSION, '4.0.2.0', '>=') ? '.' : '|';
+
+		$data['save'] = $this->url->link('extension/ps_sk_language/language/slovak' . $separator . 'save', 'user_token=' . $this->session->data['user_token']);
 		$data['back'] = $this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=language');
 
 		$data['language_slovak_status'] = $this->config->get('language_slovak_status');

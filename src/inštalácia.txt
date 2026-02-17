@@ -23,6 +23,8 @@ Inštalácia
 8. Do poľa "Language Name" zadajte "Slovenčina"; do poľa "Code" zadajte "sk-sk"; do poľa "Locale" zadajte "sk_SK.UTF-8,sk_SK,slovak"; nakoniec povolte jazyk.
 9. Kliknite na tlačidlo "Save"; týmto ste nainštalovali jazykový balík.
 
-Podpora a Aktualizácie
+Podpora a dopyty
 
-Po nákupe získate bezplatné aktualizácie pre verziu OpenCart 4.1.0.0. Ak budú v budúcnosti vydané aktualizácie pre sériu 4.x, budú dostupné bezplatne. Ak narazíte na akékoľvek problémy alebo potrebujete pomoc, môžete požiadať o podporu prostredníctvom e-mailu na support@playfulsparkle.com.
+V prípade potreby asistencie alebo otázok týkajúcich sa tohto rozšírenia,
+prosím, vytvorte hlásenie v úložisku rozšírenia alebo nás kontaktujte e-mailom
+na adrese support@playfulsparkle.com.
