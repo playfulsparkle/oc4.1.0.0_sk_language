@@ -25,6 +25,7 @@ Inštalácia
 
 Podpora a dopyty
 
-V prípade potreby asistencie alebo otázok týkajúcich sa tohto rozšírenia,
-prosím, vytvorte hlásenie v úložisku rozšírenia alebo nás kontaktujte e-mailom
+V prípade potreby pomoci alebo otázok týkajúcich sa tohto rozšírenia, prosím,
+otvorte hlásenie v tomto repozitári, navštívte našu webovú stránku podpory
+https://support.playfulsparkle.com alebo nás kontaktujte e-mailom
 na adrese support@playfulsparkle.com.
