@@ -8,11 +8,14 @@
   },
   "keywords": [
     "opencart",
-    "oc",
+    "opencart4",
+    "opencart-extension",
     "playfulsparkle",
+    "language-pack",
     "slovak",
     "slovenčina",
-    "language"
+    "sk-sk",
+    "formal"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
   "license": "GPL",
